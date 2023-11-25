@@ -1,6 +1,6 @@
-# My CS:GO bind configuration
-Launch options used: -novid -freq 170 -tickrate 128  
+# My CS2 bind configuration
+Launch options used: -exec autoexec.cfg
 Resolution: 1280x960
 
 ## Requirements:  
-CS:GO default binds
+CS2 default binds
